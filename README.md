@@ -1,0 +1,2 @@
+# -KOLA
+Hledení cesty - programování
